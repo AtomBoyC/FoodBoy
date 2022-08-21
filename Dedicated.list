@@ -1,1 +1,16 @@
+# 走独立IP的代理
 
+DOMAIN-SUFFIX,bibliotik.me
+DOMAIN-SUFFIX,beyond-hd.me
+DOMAIN-SUFFIX,empornium.is
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,cinemageddon.net
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,retrowithin.com
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,karagarga.in
+DOMAIN-SUFFIX,sdbits.org
+DOMAIN-SUFFIX,calibre.pokebal.xyz
+IP-CIDR,34.94.0.153/32,no-resolve
