@@ -1,4 +1,4 @@
 #用于规定走游戏加速代理的.EXE or Site
-PROCESS-NAME,pcap2socks-gui.exe
+#PROCESS-NAME,pcap2socks-gui.exe
 PROCESS-NAME,Proxifier.exe
 PROCESS-NAME,Netch.exe
