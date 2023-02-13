@@ -1,3 +1,4 @@
 # 走801下载线路的规则
 PROCESS-NAME,GoogleDriveFS.exe
 PROCESS-NAME,IDMan.exe
+PROCESS-NAME,Dropbox.exe
