@@ -856,12 +856,13 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 ### Hulu
-DOMAIN-SUFFIX,hulu.com,Hulu
-DOMAIN-SUFFIX,huluad.com,Hulu
-DOMAIN-SUFFIX,huluim.com,Hulu
-DOMAIN-SUFFIX,hulumail.com,Hulu
-DOMAIN-SUFFIX,huluqa.com,Hulu
-DOMAIN-SUFFIX,hulustream.com,Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulumail.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,hulu.jp
 ### Disney+espn
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
