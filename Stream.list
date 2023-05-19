@@ -1,4 +1,12 @@
 ### FOODBOY 爱看片
+### Hulu
+DOMAIN-SUFFIX,hulu.com,Hulu
+DOMAIN-SUFFIX,huluad.com,Hulu
+DOMAIN-SUFFIX,huluim.com,Hulu
+DOMAIN-SUFFIX,hulumail.com,Hulu
+DOMAIN-SUFFIX,huluqa.com,Hulu
+DOMAIN-SUFFIX,hulustream.com,Hulu
+### Disney+espn
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -162,7 +170,9 @@ DOMAIN-SUFFIX,cws.conviva.com
 IP-CIDR,13.35.0.0/17
 IP-CIDR,52.84.0.0/15
 IP-CIDR,13.32.0.0/15
+### GPT
 DOMAIN-SUFFIX,openai.com
+### Bilibili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -289,6 +299,7 @@ PROCESS-NAME,com.bilibili.comic
 PROCESS-NAME,com.bilibili.comic.intl
 PROCESS-NAME,tv.danmaku.bili
 PROCESS-NAME,tv.danmaku.bilibilihd
+### HBO+
 PROCESS-NAME,com.hbo.hbonow
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
@@ -314,6 +325,7 @@ DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
+### Netfilx
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.com.au
