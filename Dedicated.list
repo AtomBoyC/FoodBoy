@@ -20,8 +20,9 @@ DOMAIN-SUFFIX,bd25.eu
 DOMAIN-SUFFIX,tv-vault.me
 DOMAIN-SUFFIX,bluebird-hd.org
 DOMAIN-SUFFIX,nzbs.in
-#rs2000
+#netcup
 DOMAIN-SUFFIX,rs.atomboy.club
+DOMAIN-SUFFIX,sr.atomboy.club
 #3o
 DOMAIN-SUFFIX,online.atomboy.club
 DOMAIN-SUFFIX,vertex.atomboy.club
