@@ -1166,9 +1166,6 @@ DOMAIN-SUFFIX,cws.conviva.com
 IP-CIDR,13.35.0.0/17
 IP-CIDR,52.84.0.0/15
 IP-CIDR,13.32.0.0/15
-### GPT
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,sentry.io
 ### Bilibili
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
