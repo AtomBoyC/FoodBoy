@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.fr
 DOMAIN-SUFFIX,amazon.es
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
