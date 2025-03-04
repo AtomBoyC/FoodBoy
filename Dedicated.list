@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,usenetszene.net
 DOMAIN-SUFFIX,nzbcore.info
 DOMAIN-SUFFIX,squareeyed.org
 DOMAIN-SUFFIX,scenenzbs.com
-
+DOMAIN-SUFFIX,bluraynzb.org
 IP-CIDR,118.31.7.236/32,no-resolve
 IP-CIDR,179.43.168.158/32,no-resolve
 #netcup
