@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.fr
 DOMAIN-SUFFIX,amazon.es
+# Bank Or Wallet 
+DOMAIN-SUFFIX,cncbinternational.com 
+DOMAIN-SUFFIX,bochk.com 
+DOMAIN-SUFFIX,hsbc.com.hk 
+DOMAIN-SUFFIX,wise.com 
+DOMAIN-SUFFIX,airstarbank.com
 # Telegram
 DOMAIN-KEYWORD,telegram
 DOMAIN-SUFFIX,t.me
