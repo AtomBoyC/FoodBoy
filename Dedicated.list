@@ -71,12 +71,12 @@ IP-CIDR,179.43.168.158/32,no-resolve
 #netcup
 #greencloud
 DOMAIN-SUFFIX,greenjp.atomboy.club
-DOMAIN-SUFFIX,cd2jp.atomboy.club
 DOMAIN-SUFFIX,filebot.atomboy.club
 DOMAIN-SUFFIX,alist.atomboy.club
 DOMAIN-SUFFIX,gjcd.atomboy.club
 #bandwagon
 DOMAIN-SUFFIX,nlxui.atomboy.club
+DOMAIN-SUFFIX,usxui.atomboy.club
 #host-c
 DOMAIN-SUFFIX,hc.atomboy.club
 DOMAIN-SUFFIX,hctr.atomboy.club
@@ -88,12 +88,6 @@ DOMAIN-SUFFIX,exui.atomboy.club
 DOMAIN-SUFFIX,wxui.atomboy.club
 DOMAIN-SUFFIX,skxui.atomboy.club
 DOMAIN-SUFFIX,clxui.atomboy.club
-#ccs
-DOMAIN-SUFFIX,ccsbrr.atomboy.club
-DOMAIN-SUFFIX,ccsqb.atomboy.club
-DOMAIN-SUFFIX,ccsny.atomboy.club
-DOMAIN-SUFFIX,ccstr.atomboy.club
-DOMAIN-SUFFIX,cd2ccs.atomboy.club
 #liteserver
 DOMAIN-SUFFIX,ls.atomboy.club
 #claw
