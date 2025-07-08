@@ -1,14 +1,11 @@
 # 强制直连的代理
-DOMAIN-SUFFIX,gary.atomboy.club
-DOMAIN-SUFFIX,porn.atomboy.club
-DOMAIN-SUFFIX,corn.atomboy.club
-DOMAIN-SUFFIX,eorn.atomboy.club
-DOMAIN-SUFFIX,cone.atomboy.club
-DOMAIN-SUFFIX,done.atomboy.club
-DOMAIN-SUFFIX,eone.atomboy.club
-IP-CIDR,45.78.22.17/32,no-resolve
+DOMAIN-SUFFIX,nlclaw.atomboy.club
+DOMAIN-SUFFIX,nlgj.atomboy.club
+DOMAIN-SUFFIX,usclaw.atomboy.club
+DOMAIN-SUFFIX,usgj.atomboy.club
+IP-CIDR,104.224.154.136/32,no-resolve
 IP-CIDR,62.106.70.159/32,no-resolve
-IP-CIDR,67.230.175.188/32,no-resolve
+IP-CIDR,162.211.228.244/32,no-resolve
 IP-CIDR,47.76.55.147/32,no-resolve
 #Trackers
 DOMAIN-SUFFIX,theshow.click
