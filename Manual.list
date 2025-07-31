@@ -5,9 +5,12 @@ DOMAIN-SUFFIX,greenjp.atomboy.club
 DOMAIN-SUFFIX,filebot.atomboy.club
 DOMAIN-SUFFIX,alist.atomboy.club
 DOMAIN-SUFFIX,gjcd.atomboy.club
-#bandwagon/Spartan
-DOMAIN-SUFFIX,spt.atomboy.club
+#bandwagon
 DOMAIN-SUFFIX,usxui.atomboy.club
+#SpartanHost
+DOMAIN-SUFFIX,spt.atomboy.club
+#HostDzire
+DOMAIN-SUFFIX,hdz.atomboy.club
 #host-c
 DOMAIN-SUFFIX,hc.atomboy.club
 DOMAIN-SUFFIX,hctr.atomboy.club
