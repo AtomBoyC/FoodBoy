@@ -5,8 +5,7 @@ DOMAIN-SUFFIX,usclaw.atomboy.club
 DOMAIN-SUFFIX,usgj.atomboy.club
 IP-CIDR,104.224.154.136/32,no-resolve
 IP-CIDR,62.106.70.159/32,no-resolve
-IP-CIDR,162.211.228.244/32,no-resolve
-IP-CIDR,47.76.55.147/32,no-resolve
+IP-CIDR,45.151.133.124/32,no-resolve
 #Trackers
 DOMAIN-SUFFIX,theshow.click
 DOMAIN-SUFFIX,thegeeks.click
