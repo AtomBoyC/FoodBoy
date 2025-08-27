@@ -20,6 +20,11 @@ DOMAIN-SUFFIX,trss.atomboy.club
 DOMAIN-SUFFIX,ovheast.atomboy.club
 DOMAIN-SUFFIX,exui.atomboy.club
 DOMAIN-SUFFIX,wxui.atomboy.club
+#walehost
+DOMAIN-SUFFIX,waleqb.atomboy.club
+DOMAIN-SUFFIX,vertex.atomboy.club
+#cloudcone
+DOMAIN-SUFFIX,ccqb.atomboy.club
 #liteserver
 DOMAIN-SUFFIX,ls.atomboy.club
 #colocrossing
