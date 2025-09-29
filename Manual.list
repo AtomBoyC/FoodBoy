@@ -1,4 +1,7 @@
 # 适用于不好经常更改IP的地址
+DOMAIN-SUFFIX,ovh.com
+DOMAIN-SUFFIX,OVH.ie
+DOMAIN-SUFFIX,us.ovhcloud.com
 #netcup
 #greencloud
 DOMAIN-SUFFIX,greenjp.atomboy.club
