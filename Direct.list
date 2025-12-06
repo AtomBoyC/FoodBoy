@@ -1,8 +1,7 @@
 # 强制直连的代理
-DOMAIN-SUFFIX,nlclaw.atomboy.club
-DOMAIN-SUFFIX,nlgj.atomboy.club
-DOMAIN-SUFFIX,usclaw.atomboy.club
 DOMAIN-SUFFIX,usgj.atomboy.club
+DOMAIN-SUFFIX,usovh.atomboy.club
+DOMAIN-SUFFIX,usccs.atomboy.club
 IP-CIDR,104.224.154.136/32,no-resolve
 IP-CIDR,62.106.70.159/32,no-resolve
 IP-CIDR,45.151.133.124/32,no-resolve
