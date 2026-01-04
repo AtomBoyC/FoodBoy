@@ -2,7 +2,9 @@
 DOMAIN-SUFFIX,ovh.com
 DOMAIN-SUFFIX,ovh.ie
 DOMAIN-SUFFIX,us.ovhcloud.com
-#netcup
+#hostdzire
+DOMAIN-SUFFIX,ls.itongmu.com
+DOMAIN-SUFFIX,hdzla.itongmu.com
 #greencloud
 DOMAIN-SUFFIX,greenjp.itongmu.com
 DOMAIN-SUFFIX,filebot.itongmu.com
