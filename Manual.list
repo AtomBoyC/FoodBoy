@@ -3,7 +3,10 @@ DOMAIN-SUFFIX,ovh.com
 DOMAIN-SUFFIX,ovh.ie
 DOMAIN-SUFFIX,us.ovhcloud.com
 #hostdzire
-DOMAIN-SUFFIX,ls.itongmu.com
+DOMAIN-SUFFIX,lw.itongmu.com
+DOMAIN-SUFFIX,pve.itongmu.com
+DOMAIN-SUFFIX,lwfnos.itongmu.com
+DOMAIN-SUFFIX,lwfnosqb.itongmu.com
 DOMAIN-SUFFIX,hdzla.itongmu.com
 #greencloud
 DOMAIN-SUFFIX,greenjp.itongmu.com
@@ -23,9 +26,8 @@ DOMAIN-SUFFIX,wxui.itongmu.com
 DOMAIN-SUFFIX,ovh.itongmu.com
 #walehost
 DOMAIN-SUFFIX,waleqb.itongmu.com
-DOMAIN-SUFFIX,walevertex.itongmu.com
 DOMAIN-SUFFIX,waleqb3.itongmu.com
-DOMAIN-SUFFIX,fnos.itongmu.com
+DOMAIN-SUFFIX,walefnos.itongmu.com
 #liteserver
 DOMAIN-SUFFIX,ls.qyly.de
 DOMAIN-SUFFIX,hostloc.com
