@@ -1,5 +1,5 @@
 # 强制直连的代理
-DOMAIN-SUFFIX,usgj.itongmu.com
+DOMAIN-SUFFIX,uslw.itongmu.com
 DOMAIN-SUFFIX,usovh.itongmu.com
 IP-CIDR,104.224.154.136/32,no-resolve
 IP-CIDR,62.106.70.159/32,no-resolve
@@ -13,5 +13,4 @@ DOMAIN-SUFFIX,immortal-s.me
 DOMAIN-SUFFIX,shadowthein.net
 DOMAIN-SUFFIX,xthor.tk
 DOMAIN-SUFFIX,cartoonchaos.org
-DOMAIN-SUFFIX,food.atomboy.club
-DOMAIN-SUFFIX,foodb.atomboy.club
+DOMAIN-SUFFIX,food.itongmu.com
