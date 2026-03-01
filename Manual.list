@@ -5,13 +5,6 @@ DOMAIN-SUFFIX,us.ovhcloud.com
 #hostdzire
 DOMAIN-SUFFIX,lw.itongmu.com
 DOMAIN-SUFFIX,pve.itongmu.com
-DOMAIN-SUFFIX,lwfnos.itongmu.com
-DOMAIN-SUFFIX,lwfnosqb.itongmu.com
-#greencloud
-DOMAIN-SUFFIX,greenjp.itongmu.com
-DOMAIN-SUFFIX,filebot.itongmu.com
-DOMAIN-SUFFIX,alist.itongmu.com
-DOMAIN-SUFFIX,gjcd.itongmu.com
 #bandwagon
 DOMAIN-SUFFIX,usxui.itongmu.com
 #SpartanHost
@@ -23,6 +16,9 @@ DOMAIN-SUFFIX,exui.itongmu.com
 DOMAIN-SUFFIX,wxui.itongmu.com
 DOMAIN-SUFFIX,ovh.itongmu.com
 DOMAIN-SUFFIX,jproxy.itongmu.com
+DOMAIN-SUFFIX,vault.itongmu.com
+DOMAIN-SUFFIX,filebot.itongmu.com
+DOMAIN-SUFFIX,alist.itongmu.com
 #walehost
 DOMAIN-SUFFIX,waleqb.itongmu.com
 DOMAIN-SUFFIX,waleqb3.itongmu.com
