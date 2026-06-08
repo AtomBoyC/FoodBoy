@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,lw.itongmu.com
 DOMAIN-SUFFIX,pve.itongmu.com
 #bandwagon
 DOMAIN-SUFFIX,usxui.itongmu.com
-#SpartanHost
 #ovh
 DOMAIN-SUFFIX,trss.itongmu.com
 DOMAIN-SUFFIX,lounge.itongmu.com
@@ -19,10 +18,6 @@ DOMAIN-SUFFIX,jproxy.itongmu.com
 DOMAIN-SUFFIX,vault.itongmu.com
 DOMAIN-SUFFIX,filebot.itongmu.com
 DOMAIN-SUFFIX,alist.itongmu.com
-#walehost
-DOMAIN-SUFFIX,waleqb.itongmu.com
-DOMAIN-SUFFIX,waleqb3.itongmu.com
-DOMAIN-SUFFIX,walefnos.itongmu.com
 #liteserver
 DOMAIN-SUFFIX,ls.qyly.de
 DOMAIN-SUFFIX,hostloc.com
