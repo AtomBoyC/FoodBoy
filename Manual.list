@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,jproxy.itongmu.com
 DOMAIN-SUFFIX,vault.itongmu.com
 DOMAIN-SUFFIX,filebot.itongmu.com
 DOMAIN-SUFFIX,alist.itongmu.com
+DOMAIN-SUFFIX,tz.itongmu.com
 #liteserver
 DOMAIN-SUFFIX,ls.qyly.de
 DOMAIN-SUFFIX,hostloc.com
