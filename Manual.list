@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,lw.itongmu.com
 DOMAIN-SUFFIX,pve.itongmu.com
 #bandwagon
 DOMAIN-SUFFIX,usxui.itongmu.com
+#ccs
+DOMAIN-SUFFIX,ccs.itongmu.com
+DOMAIN-SUFFIX,vaultccs.itongmu.com
 #ovh
 DOMAIN-SUFFIX,trss.itongmu.com
 DOMAIN-SUFFIX,lounge.itongmu.com
