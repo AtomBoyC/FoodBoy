@@ -1,10 +1,13 @@
 # 强制直连的代理
 DOMAIN-SUFFIX,lalw.itongmu.com
 DOMAIN-SUFFIX,laovh.itongmu.com
+DOMAIN-SUFFIX,laccs.itongmu.com
 DOMAIN-SUFFIX,sjclw.itongmu.com
 DOMAIN-SUFFIX,sjcovh.itongmu.com
+DOMAIN-SUFFIX,sjcccs.itongmu.com
 DOMAIN-SUFFIX,sptlw.itongmu.com
 DOMAIN-SUFFIX,sptovh.itongmu.com
+DOMAIN-SUFFIX,sptccs.itongmu.com
 IP-CIDR,104.224.154.136/32,no-resolve
 IP-CIDR,62.106.70.159/32,no-resolve
 IP-CIDR,45.151.133.124/32,no-resolve
