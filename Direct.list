@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,sjcccs.itongmu.com
 DOMAIN-SUFFIX,sptlw.itongmu.com
 DOMAIN-SUFFIX,sptovh.itongmu.com
 DOMAIN-SUFFIX,sptccs.itongmu.com
-IP-CIDR,104.224.154.136/32,no-resolve
-IP-CIDR,62.106.70.159/32,no-resolve
-IP-CIDR,45.151.133.124/32,no-resolve
 #Trackers
 DOMAIN-SUFFIX,theshow.click
 DOMAIN-SUFFIX,thegeeks.click
